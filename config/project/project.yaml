@@ -1,0 +1,22 @@
+dateModified: 1698954394
+email:
+  fromEmail: taylorcgaines@gmail.com
+  fromName: squiddo.ink
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    7d5e70e2-8207-4005-96bb-453ba1d3e1d4: squiddo.ink # squiddo.ink
+    942d4088-1596-4051-a274-da9c3da10fad: Common # Common
+    fe75205c-8174-4e60-9d09-70693f54d67d: squiddo.ink # squiddo.ink
+system:
+  edition: solo
+  live: true
+  name: squiddo.ink
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
